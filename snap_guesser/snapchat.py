@@ -33,7 +33,7 @@ def get_snapchat(endpoint, s):
         soup = BeautifulSoup(req_snapchat.text, "html.parser")
         try:
             find_name = soup.find('span', {'class': 'UserDetailsCard_title__lNhHN'})
-            print(" \033[32m+ {}\033[0m snapchat username seem exit with real name {}".format(endpoint, "\033[32m{}\033[0m".format(find_name.text if find_name.text else "\033[31mNone\033[0m")))
+            print(" \033[32m+ {}\033[0m snapchat username seem exit with real name {} on https://www.snapchat.com/add/{}".format(endpoint, "\033[32m{}\033[0m".format(find_name.text if find_name.text else "\033[31mNone\033[0m"), endpoint))
         except AttributeError:
             print(" \033[32m+ {}\033[0m snapchat username seem exit with real name \033[31mNone\033[0m".format(endpoint))
 
