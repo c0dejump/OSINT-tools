@@ -11,8 +11,6 @@ from bs4 import BeautifulSoup
 
 requests.packages.urllib3.disable_warnings(requests.packages.urllib3.exceptions.InsecureRequestWarning)
 
-#https://www.snapchat.com/add/natan-f
-#https://feelinsonice.appspot.com/web/deeplink/snapcode?username=natan-f&size=400&type=SVG
 
 def get_postal_code(city):
     url_geocode = "http://geofree.fr/gf/zipfinder.asp"
