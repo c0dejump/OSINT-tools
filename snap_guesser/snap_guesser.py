@@ -32,13 +32,15 @@ def get_snapchat(endpoint, s):
     if req_snapchat.status_code not in [404, 403, 401]:
         soup = BeautifulSoup(req_snapchat.text, "html.parser")
         try:
-            find_name = soup.find('span', {'class': 'UserDetailsCard_title__lNhHN'})
+            find_name = soup.find('span', {'class': re.compile(r'UserDetailsCard_title*')})
             print(" \033[32m+ {}\033[0m snapchat username seem exit with real name {} on https://www.snapchat.com/add/{}".format(endpoint, "\033[32m{}\033[0m".format(find_name.text if find_name.text else "\033[31mNone\033[0m"), endpoint))
         except AttributeError:
             print(" \033[32m+ {}\033[0m snapchat username seem exit with real name \033[31mNone\033[0m".format(endpoint))
 
 
 def parse_snapchat_username(identity, pseudo, city, keyword):
+
+    print("\033[36m Snapchat search\033[0m")
     s = requests.session()
 
     endpoints = []
@@ -108,6 +110,8 @@ def parse_snapchat_username(identity, pseudo, city, keyword):
                 endpoints.append(ki)
         for endpoint in endpoints:
             get_snapchat(endpoint, s)
+            sys.stdout.write(" \033[34musername: {}\033[0m\r".format(endpoint))
+            sys.stdout.write("\033[K")
 
 
 
