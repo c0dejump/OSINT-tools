@@ -1,0 +1,26 @@
+# OSINT Investigator - Dependencies
+# Install with: pip install -r requirements.txt
+
+# HTTP requests
+requests>=2.31.0
+urllib3>=2.0.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Phone number parsing and validation
+phonenumbers>=8.13.0
+
+# Rich console output
+rich>=13.7.0
+
+# Async support (optional, for future enhancements)
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.0
+
+# Image handling (optional, for profile picture analysis)
+Pillow>=10.0.0
+
+# DNS lookups (optional)
+dnspython>=2.4.0
