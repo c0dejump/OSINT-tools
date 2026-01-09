@@ -12,6 +12,8 @@ Guessing BF snapchat username
 Guessing BF email based on emailGuesser by WhiteHatInspector (https://github.com/WhiteHatInspector/emailGuesser)
 
 
-### whoig
+### instaguard
 
-Who is instagram: instagram profil analyse
+Instagram profile analysis tools with a confidence score indicating whether or not it is a fake/scammer account
+
+![example 1](./Instaguard/exemple_instaguard.png)
