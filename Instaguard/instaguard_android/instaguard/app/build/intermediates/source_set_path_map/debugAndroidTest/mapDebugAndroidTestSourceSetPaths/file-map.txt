@@ -1,0 +1,4 @@
+com.codejump.iglookup.test.app-androidTest-0 C:\Users\codej\Downloads\instaguard_android\instaguard\app\build\generated\res\resValues\androidTest\debug
+com.codejump.iglookup.test.app-mergeDebugAndroidTestResources-1 C:\Users\codej\Downloads\instaguard_android\instaguard\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.codejump.iglookup.test.app-mergeDebugAndroidTestResources-2 C:\Users\codej\Downloads\instaguard_android\instaguard\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.codejump.iglookup.test.app-debugAndroidTest-3 C:\Users\codej\Downloads\instaguard_android\instaguard\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

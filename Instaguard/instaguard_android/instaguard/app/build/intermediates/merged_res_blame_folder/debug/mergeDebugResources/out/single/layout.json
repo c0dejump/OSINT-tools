@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.codejump.iglookup.app-mergeDebugResources-35:/layout/item_scan_result.xml",
+        "source": "com.codejump.iglookup.app-main-38:/layout/item_scan_result.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-mergeDebugResources-35:/layout/dialog_login.xml",
+        "source": "com.codejump.iglookup.app-main-38:/layout/dialog_login.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-mergeDebugResources-35:/layout/item_history.xml",
+        "source": "com.codejump.iglookup.app-main-38:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-mergeDebugResources-35:/layout/item_field.xml",
+        "source": "com.codejump.iglookup.app-main-38:/layout/item_field.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.codejump.iglookup.app-main-38:/layout/activity_main.xml"
+    }
+]

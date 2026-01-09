@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instaguard</string>
+    <string name="app_slogan">Real or Fake?</string>
+    <string name="hint_username">Enter Instagram username</string>
+    <string name="lookup">Analyze</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="posts">Posts</string>
+    <string name="section_business">BUSINESS</string>
+    <string name="section_obfuscated">OBFUSCATED INFO</string>
+    <string name="section_age">ACCOUNT AGE</string>
+    <string name="section_trust">TRUST SCORE</string>
+    <string name="recent_searches">RECENT SEARCHES</string>
+    <string name="empty_state_title">Analyze any Instagram profile</string>
+    <string name="empty_state_subtitle">Discover if they\'re real or fake</string>
+    <string name="action_export">Export</string>
+    <string name="action_clear_history">Clear History</string>
+    <string name="action_unfollow">Unfollow</string>
+    <string name="unfollow_confirm">Unfollow @%s?</string>
+    <string name="unfollow_success">Successfully unfollowed @%s</string>
+    <string name="unfollow_error">Failed to unfollow</string>
+    <string name="impersonation_warning">⚠️ POSSIBLE IMPERSONATION</string>
+    <string name="similar_account_found">Similar account with more followers found</string>
+</resources>

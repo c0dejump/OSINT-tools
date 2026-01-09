@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/surface">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Instagram Login"
+        android:textColor="@color/cyan"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login to scan your followers for risky accounts"
+        android:textColor="@color/gray"
+        android:textSize="13sp"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp"/>
+
+    <EditText
+        android:id="@+id/login_username"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="your_username"
+        android:textColorHint="@color/gray"
+        android:textColor="@color/white"
+        android:background="@color/surface_light"
+        android:padding="12dp"
+        android:inputType="text"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp"/>
+
+    <EditText
+        android:id="@+id/login_password"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="••••••••"
+        android:textColorHint="@color/gray"
+        android:textColor="@color/white"
+        android:background="@color/surface_light"
+        android:padding="12dp"
+        android:inputType="textPassword"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="⚠️ Your credentials are only used to authenticate with Instagram and are not stored on any server. They are kept locally on your device."
+        android:textColor="@color/gray"
+        android:textSize="11sp"
+        android:lineSpacingExtra="2dp"/>
+
+</LinearLayout>

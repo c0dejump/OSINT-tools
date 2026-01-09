@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Instagram gradient - fills entire 108x108 viewport -->
+    <path android:fillColor="#833AB4" android:pathData="M0,0h108v108H0z"/>
+    <path android:fillColor="#C13584" android:pathData="M0,30 L108,0 L108,108 L0,108z"/>
+    <path android:fillColor="#E1306C" android:pathData="M0,55 L108,25 L108,108 L0,108z"/>
+    <path android:fillColor="#F77737" android:pathData="M0,80 L70,108 L0,108z"/>
+    <path android:fillColor="#FCAF45" android:pathData="M0,95 L35,108 L0,108z"/>
+</vector>

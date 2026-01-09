@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Camera border centered in safe zone -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M34,28 L74,28 C78,28 80,30 80,34 L80,74 C80,78 78,80 74,80 L34,80 C30,80 28,78 28,74 L28,34 C28,30 30,28 34,28 Z" />
+    
+    <!-- Cat head - white side -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,62 m-16,0 a16,14 0,1 1,32 0 a16,14 0,1 1,-32 0" />
+    
+    <!-- Cat head - dark shadow side (right half) -->
+    <path
+        android:fillColor="#2a2a2a"
+        android:pathData="M54,48 L54,76 Q62,76 68,70 Q74,62 70,52 Q66,44 54,48 Z" />
+    
+    <!-- Cat left ear (white) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,50 L34,34 L48,44 Z" />
+    
+    <!-- Cat right ear (dark) -->
+    <path
+        android:fillColor="#2a2a2a"
+        android:pathData="M68,50 L74,34 L60,44 Z" />
+    
+    <!-- Inner ear left pink -->
+    <path
+        android:fillColor="#E1306C"
+        android:pathData="M41,48 L38,38 L47,45 Z" />
+    
+    <!-- Inner ear right darker -->
+    <path
+        android:fillColor="#833AB4"
+        android:pathData="M67,48 L70,38 L61,45 Z" />
+    
+    <!-- Left eye (visible, bright) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,56 m-5,0 a5,5 0,1 1,10 0 a5,5 0,1 1,-10 0" />
+    <path
+        android:fillColor="#833AB4"
+        android:pathData="M44,56 m-2.5,0 a2.5,3.5 0,1 1,5 0 a2.5,3.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,55 m-1,0 a1,1 0,1 1,2 0 a1,1 0,1 1,-2 0" />
+    
+    <!-- Right eye (in shadow, glowing) -->
+    <path
+        android:fillColor="#FCAF45"
+        android:pathData="M64,56 m-4,0 a4,5 0,1 1,8 0 a4,5 0,1 1,-8 0" />
+    <path
+        android:fillColor="#1a1a1a"
+        android:pathData="M64,56 m-1.5,0 a1.5,3 0,1 1,3 0 a1.5,3 0,1 1,-3 0" />
+    
+    <!-- Cat nose -->
+    <path
+        android:fillColor="#E1306C"
+        android:pathData="M54,66 L51,70 L57,70 Z" />
+    
+    <!-- Cat mouth -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#666666"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,70 L54,72 M50,73 Q54,76 58,73" />
+    
+    <!-- Whiskers left (white side) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#9e9e9e"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M48,68 L36,66 M48,70 L36,70 M48,72 L36,74" />
+    
+    <!-- Whiskers right (shadow side - subtle) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4a4a4a"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M60,68 L72,66 M60,70 L72,70 M60,72 L72,74" />
+</vector>

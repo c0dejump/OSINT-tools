@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/anim_slide_up.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/xml_file_paths.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_search_large.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_search_large.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/layout_item_history.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/menu_main_menu.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_circle_border.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/circle_border.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_badge_business.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/badge_business.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_link.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_link.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_badge_verified.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/badge_verified.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_input_background.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_launcher.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_button_secondary.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/button_secondary.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_export.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_export.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_badge_public.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/badge_public.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/layout_item_scan_result.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/layout/item_scan_result.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_profile_placeholder.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_profile_placeholder.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_button_primary.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/anim_fade_in.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_ic_search.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_card_background.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/layout_item_field.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/layout/item_field.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/drawable_badge_private.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/drawable/badge_private.xml"
+    },
+    {
+        "merged": "com.codejump.iglookup.app-debug-36:/layout_dialog_login.xml.flat",
+        "source": "com.codejump.iglookup.app-main-38:/layout/dialog_login.xml"
+    }
+]
